@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MoodyChord</string>
+
+    <string-array name="key_array">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="mood_array">
+        <item>Happy</item>
+        <item>Romantic</item>
+        <item>Mysterious</item>
+        <item>Sad</item>
+        <item>Energetic</item>
+    </string-array>
+
+
+</resources>
